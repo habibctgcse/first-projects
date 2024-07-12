@@ -1,0 +1,42 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.nav-title{
+    font-weight: 50px;
+    font-size: 50px;
+}
+
+
+
+.btn-style{
+    
+    background-color: blue;
+    font-weight: 600px;
+    color: white;
+}
+
+
+.banner-style{
+    text-align: center;
+
+}
+
+.bg-style{
+    background-image: url('../B10A1-Challenge-Begins/assets/Hero-bg.png');
+}
