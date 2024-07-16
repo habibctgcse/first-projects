@@ -40,3 +40,35 @@ nav li a{
 .bg-style{
     background-image: url('../B10A1-Challenge-Begins/assets/Hero-bg.png');
 }
+.font-style{
+    font-size: 30px ;
+}
+.font-style1{
+    font-size: 20px;
+
+}
+
+.btn-style1{
+    
+    background-color: blue;
+    color: white;
+    border: none;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 600px;
+    
+}
+
+.main-style{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.p-style{
+    font-size: 20px;
+}
+
+.skill{
+
+}
